@@ -1,0 +1,26 @@
+_repo: Lincoln-the-American_67395
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lowden, Frank O. (Frank Orren)
+    alias: Lowden, Frank Orren
+    birthdate: 1861
+    deathdate: 1943
+    gutenberg_agent_id: '54253'
+    url: http://www.gutenberg.org/2009/agents/54253
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Orren_Lowden
+description: ''
+gutenberg_issued: '2022-02-13'
+identifiers:
+  gutenberg: '67395'
+  lccn: '19027088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcc 'E456'
+- GITenberg
+title: Lincoln, the American
+url: http://www.gutenberg.org/ebooks/67395
