@@ -1,5 +1,8 @@
 _repo: Lincoln-the-American_67395
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67395-h/images/cover.jpg
 creator:
   author:
     agent_name: Lowden, Frank O. (Frank Orren)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54253
     wikipedia: https://en.wikipedia.org/wiki/Frank_Orren_Lowden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67395#Lincoln-the-American
 gutenberg_issued: '2022-02-13'
 identifiers:
   gutenberg: '67395'
